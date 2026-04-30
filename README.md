@@ -33,19 +33,22 @@ The platform allows recruiters to post jobs and manage candidates, while job see
 ### 🏠 Home Page
 - Overview of the platform with navigation
 
----
+---<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/80fee9d3-1973-4826-bc6c-f242e63a008e" />
+
 
 ### 🔐 User Authentication
 - Job Seeker Registration & Login
 - Recruiter Registration & Login
 
----
+---<img width="1917" height="881" alt="register" src="https://github.com/user-attachments/assets/8dbeb93e-68ca-460c-bfd0-5cab6b999bda" />
+
 
 ### 👨‍💼 Recruiter Features
 - Recruiter Profile Management
 - Add / Edit / Delete Job Postings
 - View Applicants
 - Download Candidate Resume
+<img width="1919" height="882" alt="candidate_dashboard" src="https://github.com/user-attachments/assets/396a1de7-c108-4318-a452-338a2f6b70dd" />
 
 ---
 
@@ -54,7 +57,8 @@ The platform allows recruiters to post jobs and manage candidates, while job see
 - View applications per job
 - Edit job details
 
----
+---<img width="1914" height="876" alt="candidate_details" src="https://github.com/user-attachments/assets/85d64160-b049-4756-b41e-a86771a6db43" />
+
 
 ### 👩‍💻 Candidate Features
 - Search & filter jobs
@@ -62,14 +66,16 @@ The platform allows recruiters to post jobs and manage candidates, while job see
 - Save jobs for later
 - Track applied jobs
 
----
+---<img width="1919" height="879" alt="Saved_job" src="https://github.com/user-attachments/assets/806341a1-3892-4f26-98db-108b1c22db81" />
+
 
 ### 📌 Candidate Dashboard
 - View all available jobs
 - Saved jobs management
 - Job application tracking
 
----
+---<img width="1919" height="882" alt="candidate_dashboard" src="https://github.com/user-attachments/assets/aeb12158-aa37-46e4-af6b-f13e5007abec" />
+
 
 ## 🚧 Planned Features
 
@@ -79,7 +85,8 @@ The platform allows recruiters to post jobs and manage candidates, while job see
 - Admin panel for user management
 - Activity monitoring system
 
----
+---<img width="1915" height="882" alt="Skill" src="https://github.com/user-attachments/assets/98d30a05-f508-4b5b-87cd-24015cad5edd" />
+
 
 ## 📸 Screenshots
 
